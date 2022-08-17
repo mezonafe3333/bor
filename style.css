@@ -13,6 +13,7 @@ body
     width: 100%;
     background-position: left top 30rem;
     color: white;
+    padding:1rem;
     overflow-x: hidden;
     overflow-y: hidden;
 }
